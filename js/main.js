@@ -289,7 +289,7 @@ $(function() {
   
     e.preventDefault();
     $.ajax({
-      url: "https://formspree.io/f/xknarown",
+      url: "https://formspree.io/f/xbjeaabv",
       method: "POST",
       data: form.serialize(),
       dataType: "json",
